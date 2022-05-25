@@ -103,3 +103,4 @@ config file, i'd welcome a PR to add support for your preferred package manager.
 [`shell.nix`]: https://github.com/hawkw/mycelium/blob/main/shell.nix
 [`nix-shell`]: https://nixos.wiki/wiki/Development_environment_with_nix-shell
 [`direnv`]: https://direnv.net/
+25291
